@@ -1,0 +1,15 @@
+Data author: Michal Rogalski
+Data source:
+bit.ly/covid19-poland
+
+Map .json downloaded from:
+https://gist.github.com/filipstachura/391ecb779d56483c070616a4d9239cc7?short_path=c070c59#file-poland_woj-json
+
+Previous data source:
+Data repo url:
+https://github.com/VaclavRut/covid-pl
+
+Data url:
+https://api.apify.com/v2/datasets/L3VCmhMeX0KUQeJto/items?format=json&clean=1
+Daily(shows the latest record) data url:
+https://api.apify.com/v2/key-value-stores/3Po6TV7wTht4vIEid/records/LATEST?disableRedirect=true
