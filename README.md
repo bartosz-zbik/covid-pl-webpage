@@ -1,4 +1,4 @@
-# covid-pl-webpage
+# covid-pl-webpage (no longer updated, last data 2022-03-12)
 
 Webpage for data about the outbreak of COVID-19 disease in Poland:
 
